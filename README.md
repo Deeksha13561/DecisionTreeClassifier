@@ -9,5 +9,5 @@ Algorithm
 ● The purpose is if we feed any new data to this classifier, it would be able to
 predict the right class accordingly.
 </h4>
-
-<img src="">
+<h3> The final generated decision tree looks like this </h3>
+<img src="https://github.com/Deeksha13561/DecisionTreeClassifier/blob/main/DecisionTree/img.png">
